@@ -1,6 +1,6 @@
 # GARCH Quant modelling prototype
 
-[Research hub](https://github.com/DrFuliyang/garch-quant) · [Replication guide](https://github.com/DrFuliyang/garch-quant/blob/main/REPRODUCIBILITY.md)
+[Research hub](https://github.com/DrFuliyang/research) · [Replication guide](https://github.com/DrFuliyang/research/blob/main/REPRODUCIBILITY.md)
 
 A Python prototype combining rolling EGARCH volatility estimates, regime features, LSTM retraining, and portfolio-sizing calculations.
 
@@ -37,7 +37,7 @@ The September 2026 maintenance pass reviewed source structure and documentation.
 
 ## Citation and reuse
 
-Use the [research hub](https://github.com/DrFuliyang/garch-quant) to find paper-specific releases. This prototype has no paper-specific replication designation in the research directory.
+Use the [research hub](https://github.com/DrFuliyang/research) to find paper-specific releases. This prototype has no paper-specific replication designation in the research directory.
 
 ## License
 
