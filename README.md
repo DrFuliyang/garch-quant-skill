@@ -38,3 +38,7 @@ The September 2026 maintenance pass reviewed source structure and documentation.
 ## Citation and reuse
 
 Use the [research hub](https://github.com/DrFuliyang/garch-quant) to find paper-specific releases. This prototype has no paper-specific replication designation in the research directory.
+
+## License
+
+MIT, as stated in the existing project README.
